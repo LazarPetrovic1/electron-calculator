@@ -1,0 +1,14 @@
+{
+  "name": "calculator-electron",
+  "version": "1.0.0",
+  "description": "Simple system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Lazar",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
+}
