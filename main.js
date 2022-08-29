@@ -10,9 +10,10 @@ function createWindow() {
     webPreferences: {
       nodeIntegration: true
     },
-    width: 600,
-    height: 600,
-    icon: path.join(__dirname + "./imgs/pngs/calc.png")
+    width: 510,
+    height: 530,
+    icon: path.join(__dirname + "./imgs/pngs/calc.png"),
+    resizable: false
   });
 
   // load index.html

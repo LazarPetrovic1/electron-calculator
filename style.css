@@ -1,6 +1,6 @@
-* {
-  outline: none;
-}
+* { outline: none; }
+body { margin: 0 !important; }
+
 .calculator {
   display: block;
   width: 500px;
